@@ -1,18 +1,18 @@
+# 🌐 Wikipedia Clone - Projeto DIO  
+**Reprodução da interface da Wikipedia** com HTML e CSS, desenvolvido no bootcamp da [Digital Innovation One](https://www.dio.me/).  
 
-# 🌐 Wikipedia Clone - Projeto DIO
-Reprodução da interface da **Wikipedia** com **HTML e CSS**, desenvolvido como parte do bootcamp da **Digital Innovation One (DIO)**.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/seuuser/repositorio?color=blue)
 
-## 🔧 Tecnologias Utilizadas:
-✅ HTML5 (Semântico)
+## 🔧 Tecnologias  
+✅ **HTML5 Semântico**  
+✅ **CSS3** (Flexbox, Grid)  
+✅ **Design Responsivo**  
 
-✅ CSS3 (Flexbox, Grid Layout)
+## ✨ Destaques  
+- **Estrutura idêntica** à Wikipedia (navbar, conteúdo, sidebar).  
+- **Código limpo** e comentado para fácil entendimento.  
+- **Técnicas avançadas** de posicionamento CSS.  
 
-✅ Design Responsivo (Adaptável a dispositivos móveis)
-
-### ✨ Destaques
-- Estrutura semelhante à Wikipedia (barra de navegação, conteúdo principal, sidebar).
-
-- Organização de código limpo e comentado para fácil entendimento.
-
-- Prática de posicionamento CSS e hierarquia visual.
-
+[🔗 Acesse o Projeto Online](https://maarivalentim.github.io/DIO--wikipedia-projeto2/) 
